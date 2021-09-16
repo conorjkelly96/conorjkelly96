@@ -1,4 +1,4 @@
-# Senior Consultant at Oracle working on the NetSuite ERP product. 
+# Senior Consultant at Oracle working on the NetSuite ERP product 
 
 ## I am currently studying the following technologies at the University of Birmingham: 
 
