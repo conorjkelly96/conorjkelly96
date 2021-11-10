@@ -1,4 +1,4 @@
-# Senior Consultant at Oracle working on the NetSuite ERP product 
+# Senior Consultant | Oracle
 
 ## I am currently studying the following technologies at the University of Birmingham: 
 
@@ -15,13 +15,7 @@
 - MySQL
 - Git
 
-## Other technologies known include: 
-- Python, Java, SuiteScript (Fundamentals) 
-- SQL, NetSuite Workflows (Intermediate) 
-
-## Looking to solve problems in the following industries:
-- Manufacturing, Warehouse Distribution & Retail
-- Financial Sector (inc. Investment Banking)
+Click [here](https://www.linkedin.com/in/conor-kelly-984734149/) to connect on linkedIn!
 
 
 <!---
