@@ -1,10 +1,8 @@
-# Senior Consultant | Oracle
-
 <h1 align="center">Hi 👋, I'm Conor!</h1>
 <h3 align="center">Business at the front (end), tech at the back (end).</h3>
 
 
-- 🔭 I’m currently working on [StockScape 📈](https://github.com/conorjkelly96/stockscape)
+- 🔭 I’m currently working on [StockScape 📈](https://github.com/conorjkelly96/stockscape) alongside being a Senior Consultant @ Oralce! <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, React.js, Node.js, Database Theory, MongoDB, MySQL & Git.**
 
