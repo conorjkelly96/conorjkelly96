@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Conor!</h1>
 <h3 align="center">Business at the front (end), tech at the back (end).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=conorjkelly96&label=Profile%20views&color=0e75b6&style=flat" alt="conorjkelly96" /> </p>
 
 - 🔭 I’m currently working on [StockScape 📈](https://github.com/conorjkelly96/stockscape)
 
