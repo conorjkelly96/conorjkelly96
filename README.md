@@ -12,15 +12,15 @@
 
 - 🤝 I’m looking for help with [a Demand Planning Application 🔨](https://github.com/conorjkelly96/demand-planning-tool)
 
-- 👨‍💻 All of my projects are available at [https://conorjkelly96.github.io/professional-portfolio/](https://conorjkelly96.github.io/professional-portfolio/)
+- 👨‍💻 All of my projects are available [over here](https://conorjkelly96.github.io/professional-portfolio/)
 
-- 📝 I regularly write articles on [https://agile-shelf-40520.herokuapp.com/](https://agile-shelf-40520.herokuapp.com/)
+- 📝 I regularly write articles on [this fake news website...](https://agile-shelf-40520.herokuapp.com/)
 
-- 💬 Ask me about **suitescript 🍫**
+- 💬 Ask me about **SuiteScript 🍫**
 
 - 📫 How to reach me **conorjkelly96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1_onqYVffGKXr1-kA8gWpGpB7oWl6n3rK](https://drive.google.com/drive/u/0/folders/1_onqYVffGKXr1-kA8gWpGpB7oWl6n3rK)
+- 📄 Know about my experiences [by going over here!](https://drive.google.com/drive/u/0/folders/1_onqYVffGKXr1-kA8gWpGpB7oWl6n3rK)
 
 - ⚡ Fun fact **can do cross bar challenges on demand with 100% success rate.**
 
