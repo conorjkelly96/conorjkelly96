@@ -2,7 +2,7 @@
 <h3 align="center">Business at the front (end), tech at the back (end).</h3>
 
 
-- 🔭 I’m currently working on [StockScape 📈](https://github.com/conorjkelly96/stockscape) alongside being a Senior Consultant @ Oracle.
+- 🔭 I’m currently working on [StockScape 📈](https://github.com/conorjkelly96/stockscape) alongside being a Principle Consultant @ Oracle.
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, React.js, Node.js, Database Theory, MongoDB, MySQL & Git.**
 
