@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **conorjkelly96@gmail.com**
 
-- 📄 Know about my experiences [by going over here!](https://drive.google.com/drive/u/0/folders/1_onqYVffGKXr1-kA8gWpGpB7oWl6n3rK)
-
 - ⚡ Fun fact **can do cross bar challenges on demand with 100% success rate.**
 
 <h3 align="left">Connect with me:</h3>
