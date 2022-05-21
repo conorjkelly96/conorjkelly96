@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available [over here](https://conorjkelly96.github.io/professional-portfolio/)
 
-- 📝 I regularly write articles on [this fake news website...](https://agile-shelf-40520.herokuapp.com/)
-
 - 💬 Ask me about **SuiteScript 🍫**
 
 - 📫 How to reach me **conorjkelly96@gmail.com**
