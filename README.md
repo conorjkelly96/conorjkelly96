@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Conor!</h1>
 <h3 align="center">Business at the front (end), tech at the back (end).</h3>
 
-- 👨‍ I'm currently working as a Principal Consultant on the NetSuite Cloud ERP product at Oracle Corporation. Fully Certi-fived ERP Consultant & WebServices Developer, possessing NetSuite specific skills in SQL, Advanced Saved Searches, SOAP WebServices, REST WebServices, Workflows, RESTLets and Integration Security. 
+- 👨‍ I'm currently working as a Principal Consultant on the NetSuite Cloud ERP product at Oracle Corporation. 
+
+- 📝 Fully Certi-fived ERP Consultant & WebServices Developer, possessing NetSuite specific skills in SQL, Advanced Saved Searches, SOAP WebServices, REST WebServices, Workflows, RESTLets and Integration Security. 
 
 - 🔭 I’m currently working on [StockScape 📈](https://github.com/conorjkelly96/stockscape).
 
